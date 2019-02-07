@@ -1,4 +1,4 @@
-.repo_tabla{border-collapse: collapse;border-color: red;}
+.repo_tabla{border-collapse: collapse;border-color: red;width:100%}
 
 .repo_tabla thead{
   background: red;
