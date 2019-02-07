@@ -1,0 +1,15 @@
+.repo_tabla thead{
+  background: red;
+    color: white;
+}
+
+.repo_tabla th,.repo_tabla td{
+    padding: 0.5em;
+    border-color: red;
+}
+
+.repo_tabla td a{
+  text-decoration:none;
+  color: red;
+  font-weight:700;
+}
