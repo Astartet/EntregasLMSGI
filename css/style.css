@@ -1,5 +1,12 @@
+body{
+  background-color:whitesmoke;
+}
 .repo_tabla{border-collapse: collapse;border-color: red;width:100%}
-
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: inherit;
+  
+}
 .repo_tabla thead{
   background: red;
     color: white;
@@ -8,6 +15,9 @@
 .repo_tabla th,.repo_tabla td{
     padding: 0.5em;
     border-color: red;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.25em;
 }
 
 .repo_tabla td a{
