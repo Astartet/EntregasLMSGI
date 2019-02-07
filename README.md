@@ -4,3 +4,6 @@
     2. Enlace del repositorio.
  
 [Enlace IO](https://jorgermasir.github.io/EntregasLMSGI/.)
+
+# Estructura HTML --> [Jorge Rodríguez Mora](https://github.com/jorgermasir)
+# CSS --> [Daniel Blanco](https://github.com/danielblafer)
